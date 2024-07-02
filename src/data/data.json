@@ -1,0 +1,480 @@
+{
+	"basics": {
+		"name": "Yunus Emre Akgun",
+		"label": "Backend Developer - Team Lead",
+		"image": "https://voco-profile-and-activity-bucket.s3.eu-central-1.amazonaws.com/1719921866040_657f257b51e7e4440411f84d.png",
+		"email": "akgunyunus482@gmail.com",
+		"phone": "+90 (553) 379 91 99",
+		"url": "https://media.licdn.com/dms/image/C4D03AQFuTT1cVAeohg/profile-displayphoto-shrink_200_200/0/1643321663267?e=1725494400&v=beta&t=7GkhyvEtnO409pLXoMDKwo-LFo8hoKErVj6hTcwCDgg",
+		"summary": "Experienced Backend Developer | Node.js | Nest.js | AWS\n\nPassionate about leveraging Nest.js, Node.js, and AWS cloud technologies to architect and build scalable backend solutions. Proficient in developing applications utilizing AWS services such as S3, Kinesis, Lambda, CloudWatch, EC2, and Elastic Beanstalk. Skilled in optimizing backend systems for performance and reliability, with a focus on delivering efficient solutions that drive business growth.\n\n<br>🔹 Nest.js Framework Expertise\n<br>🔹 Node.js Development\n<br>🔹 AWS Cloud Services (S3, Kinesis, Lambda, CloudWatch, EC2, Elastic Beanstalk,ElasticCache,CodeBuild ,CodePipeline)\n<br>🔹 Scalable Backend Architecture\n<br>🔹 Performance Optimization\n<br>🔹 API Development and Integration",
+		"location": {
+			"address": "Cankaya, Ankara, Turkey",
+			"postalCode": "06580",
+			"city": "Ankara",
+			"countryCode": "TR",
+			"region": "California"
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "LongInteger",
+				"url": "https://www.linkedin.com/in/yunus-emre-akgün-780838147"
+			},
+			{
+				"network": "Github",
+				"username": "yunusemre482",
+				"url": "https://github.com/yunusemre482"
+			}
+		]
+	},
+	"work": [
+		{
+			"name": "Voco",
+			"position": "Back End Developer",
+			"summary": "Experienced software engineer with a strong background in designing scalable microservices architecture and mentoring other developers. Proven track record of collaborating on high-impact projects, including streamlining financial reporting and implementing the Voco System Architecture. Skilled in utilizing AWS Services, MongoDB, Google Services, and Nest.js to deliver robust and efficient solutions. Adept at leading teams and driving innovation in dynamic environments.",
+			"startDate": "2023-12-31",
+			"endDate": "",
+			"url": "https://www.linkedin.com/company/voco-mobile-app/",
+			"location": "Ankara, Ankara, Turkey",
+			"highlights": [
+				"Designed scalable microservices architecture.",
+				"Mentored junior developers.",
+				"Collaborated for high-impact projects with Voco Team.",
+				"Streamlined financial reporting.",
+				"Designed Voco System Architecture and implemented it. Used AWS Services ,MongoDB,Google Services and Nest.js for this project."
+			]
+		},
+		{
+			"name": "HoloNext",
+			"position": "Full Stack Engineer",
+			"startDate": "2022-02-28",
+			"endDate": "2023-11-30",
+			"summary": "In this role, I specialized in developing and implementing advanced AR/VR applications utilizing a diverse set of technologies. Key responsibilities included:\n\nDeveloping immersive AR/VR experiences using Three.js and Babylon.js, leveraging their capabilities to create high-quality 3D visualizations and interactions.\nIntegrating ChatGPT APIs to enhance the interactivity and intelligence of AR/VR applications, providing a more engaging user experience.\nUtilizing Node.js for server-side scripting, ensuring efficient and scalable backend processes.\nImplementing Azure Storage solutions to manage and store large volumes of data securely and efficiently.\nCollaborating with cross-functional teams to design and execute projects, ensuring all deliverables met client specifications and were completed on time.\nContinuously researching and incorporating the latest AR/VR trends and technologies to keep the applications cutting-edge and competitive.\nThis experience allowed me to deepen my technical expertise and contribute to innovative projects that push the boundaries of what's possible in AR/VR technology.",
+			"url": "https://www.linkedin.com/company/holonext/",
+			"location": "Istanbul, Turkey",
+			"highlights": [
+				"Improved forecasting accuracy by 20%.",
+				"Supported strategic decisions.",
+				"Designed AR and VR Tools with Javascript and Three.js",
+				"Developed AR/VR applications using Babylon.js"
+			]
+		},
+		{
+			"name": "Enhencer",
+			"position": "Software Engineer Intern",
+			"startDate": "2021-08-31",
+			"endDate": "2022-01-31",
+			"url": "https://www.linkedin.com/company/enhencer/",
+			"location": "Ankara, Turkey",
+			"summary": ", I developed and maintained modern web applications utilizing Google Tag Manager, MongoDB, Node.js, and Express technologies. I collaborated with cross-functional teams to create user-centric solutions and regularly participated in code reviews and testing throughout the process. These experiences have significantly enhanced both my technical skills and my ability to work effectively within a team",
+			"highlights": [
+				"Developed and maintained web applications.",
+				"Collaborated with cross-functional teams.",
+				"Participated in code reviews and testing."
+			]
+		},
+		{
+			"name": "StudioNord",
+			"position": "Full Stack Engineer",
+			"startDate": "2021-06-30",
+			"endDate": "2021-07-31",
+			"summary": "In StudioNord we are developed native mobile applications using swift and objective-c also managed some python script to improve apps API's",
+			"url": "https://www.linkedin.com/company/studionord/",
+			"location": "Istanbul, Turkey",
+			"highlights": [
+				"Developed mobile applications using Swift and Objective-C.",
+				"Managed Python scripts to improve app APIs."
+			]
+		}
+	],
+	"volunteer": [
+		{
+			"organization": "Red Cross Society",
+			"position": "Volunteer Coordinator",
+			"url": "https://redcross.org/",
+			"startDate": "2012-03-15",
+			"endDate": "2014-06-30",
+			"summary": "Coordinated volunteer activities, organized events, and facilitated training sessions.",
+			"highlights": [
+				"Implemented new volunteer recruitment strategies.",
+				"Led disaster relief efforts during local emergencies."
+			]
+		},
+		{
+			"organization": "Animal Shelter Community",
+			"position": "Animal Care Volunteer",
+			"url": "https://animalsheltercommunity.org/",
+			"startDate": "2015-09-10",
+			"endDate": "2016-12-20",
+			"summary": "Cared for animals, assisted in adoptions, and organized fundraising events.",
+			"highlights": [
+				"Facilitated successful adoption events.",
+				"Raised funds for shelter improvements."
+			]
+		}
+	],
+	"education": [
+		{
+			"institution": "Hacettepe Unisversity",
+			"area": "Computer Science",
+			"studyType": "Bachelor's Degree",
+			"startDate": "2017-12-31",
+			"endDate": "2022-01-31",
+			"score": "2.93",
+			"url": "https://hacettepe.edu.tr/",
+			"courses": [
+				"BBM101 - Introduction to CS",
+				"BBM102 - Data Structures and Algorithms",
+				"BBM304 - Operating Systems"
+			]
+		},
+		{
+			"institution": "Gedız Science High School",
+			"area": "",
+			"studyType": "High School",
+			"startDate": "2013-09-30",
+			"endDate": "2017-06-30",
+			"score": "93.5",
+			"courses": []
+		}
+	],
+	"awards": [
+		{
+			"title": "Best Technology Usage In Consumer Electronics",
+			"date": "2024-03-10",
+			"awarder": "Arçelik Global",
+			"summary": "As Part of Holonext Team, we won the Best Technology Usage In Consumer Electronics award for our innovative AR/VR  product Arçelik Gurmeşef Pro Cooking Simulation Game Project"
+		}
+	],
+	"certificates": [],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Mobil Uygulamalar",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Objective-C",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Swift",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Python",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "XCode",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Github",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Gitlub",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Google Tag Manager",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Google Analytics",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Google Maps API",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Express.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Mongoose Web Server",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "RabbitMQ",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Three.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "BabylonJs",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Azure DevOps Server",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Azure DevOps Services",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Azure",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "HTML5",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Cascading Style Sheets (CSS)",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Elastic Load Balancing",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Redux Thunk",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Node.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "JavaScript",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Bilgisayar Bilimleri",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Redux",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS Elastic Beanstalk",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS CloudFormation",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "MinION Object Storage Suite",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Redis",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "React.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Amazon Web Services (AWS)",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Bilgisayar Mühendisliği",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "MongoDB",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS Lambda",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Mühendislik",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "NestJS",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "İletişim",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS CodeBuild",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Microsoft Azure",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS CodePipeline",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Next.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Backend",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "JSON",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Back-End Web Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Amazon S3",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Tailwind CSS",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Elasticsearch",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Engineering",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Microservices",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "HTML",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "CSS Flexbox",
+			"level": "",
+			"keywords": []
+		}
+	],
+	"languages": [
+		{
+			"language": "Turkish",
+			"fluency": "Native speaker"
+		},
+		{
+			"language": "English",
+			"fluency": "Intermediate"
+		}
+	],
+	"interests": [
+		{
+			"name": "Sports",
+			"keywords": ["Football", "Basketball", "Tennis", "Swimming"]
+		},
+		{
+			"name": "Board Games",
+			"keywords": ["Catan", "Monopoly", "Risk", "Scrabble"]
+		},
+		{
+			"name": "Adventure Sports",
+			"keywords": ["Rock Climbing", "Mountain Biking"]
+		}
+	],
+	"references": [
+		{
+			"name": "Melih Turkmen - Holonext CTO",
+			"reference": "Exceptional team player with a strong dedication to delivering high-quality results under pressure."
+		},
+		{
+			"name": "Guven Celikkaya - Holonext CEO",
+			"reference": "Demonstrates outstanding problem-solving skills and consistently exceeds project expectations."
+		},
+		{
+			"name": "Murat Zabun - Voco Mobile Application Developer",
+			"reference": "Yunus Emre is a talented developer with a keen eye for detail and a passion for creating innovative solutions."
+		}
+	],
+	"projects": [
+		{
+			"name": "E-commerce Platform",
+			"startDate": "2019-01-01",
+			"endDate": "2021-01-01",
+			"description": "Developed a scalable e-commerce platform with integrated payment systems and user-friendly interface.",
+			"highlights": [
+				"Increased sales by 40% within the first year of deployment",
+				"Optimized checkout process, reducing cart abandonment by 20%"
+			],
+			"url": "https://ecommerceplatform.com/"
+		},
+		{
+			"name": "Shooter Game - AR/VR",
+			"startDate": "2024-06-30",
+			"endDate": "2021-07-25",
+			"description": "Created WebGPU game with AR/VR technologies to provide an immersive gaming experience.",
+			"highlights": [],
+			"url": "https://shooter-game-o3ju.onrender.com/"
+		},
+		{
+			"name": "Immersive Storytelling Platform",
+			"startDate": "2023-11-01",
+			"endDate": "2023-11-26",
+			"description": "Developed an immersive storytelling platform using AR/VR technologies to create interactive narratives.",
+			"highlights": [],
+			"url": "https://immersive-storytelling.onrender.com"
+		}
+	]
+}

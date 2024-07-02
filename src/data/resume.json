@@ -1,0 +1,378 @@
+{
+	"basics": {
+		"name": "Yunus Emre  Akgün",
+		"label": "Computer Engineer - Backend Developer at Voco",
+		"picture": "",
+		"email": "akgunyunus482@gmail.com",
+		"phone": "+905533799199",
+		"website": "https://my-personal-website-akgunyunus482.vercel.app",
+		"summary": "Experienced Backend Developer | Node.js | Nest.js | AWS\n\nPassionate about leveraging Nest.js, Node.js, and AWS cloud technologies to architect and build scalable backend solutions. Proficient in developing applications utilizing AWS services such as S3, Kinesis, Lambda, CloudWatch, EC2, and Elastic Beanstalk. Skilled in optimizing backend systems for performance and reliability, with a focus on delivering efficient solutions that drive business growth.\n\n🔹 Nest.js Framework Expertise\n🔹 Node.js Development\n🔹 AWS Cloud Services (S3, Kinesis, Lambda, CloudWatch, EC2, Elastic Beanstalk,ElasticCache,CodeBuild ,CodePipeline)\n🔹 Scalable Backend Architecture\n🔹 Performance Optimization\n🔹 API Development and Integration",
+		"location": {
+			"countryCode": "TR",
+			"address": ""
+		},
+		"profiles": [
+			{
+				"network": "LinkedIn",
+				"username": "yunus-emre-akgün-780838147",
+				"url": "https://www.linkedin.com/in/yunus-emre-akgün-780838147/"
+			}
+		]
+	},
+  "volunteer": [
+		{
+			"organization": "Red Cross Society",
+			"position": "Volunteer Coordinator",
+			"url": "https://redcross.org/",
+			"startDate": "2012-03-15",
+			"endDate": "2014-06-30",
+			"summary": "Coordinated volunteer activities, organized events, and facilitated training sessions.",
+			"highlights": [
+				"Implemented new volunteer recruitment strategies.",
+				"Led disaster relief efforts during local emergencies."
+			]
+		},
+		{
+			"organization": "Animal Shelter Community",
+			"position": "Animal Care Volunteer",
+			"url": "https://animalsheltercommunity.org/",
+			"startDate": "2015-09-10",
+			"endDate": "2016-12-20",
+			"summary": "Cared for animals, assisted in adoptions, and organized fundraising events.",
+			"highlights": [
+				"Facilitated successful adoption events.",
+				"Raised funds for shelter improvements."
+			]
+		}
+	],
+	"certificates": [],
+	"projects": [],
+	"work": [
+		{
+			"company": "Voco",
+			"endDate": "",
+			"highlights": [],
+			"position": "Back End Developer",
+			"startDate": "2023-12-31",
+			"website": "https://www.linkedin.com/company/voco-mobile-app/"
+		},
+		{
+			"company": "HoloNext",
+			"endDate": "2023-11-30",
+			"highlights": [],
+			"position": "Full Stack Engineer",
+			"startDate": "2022-02-28",
+			"summary": "In this role, I specialized in developing and implementing advanced AR/VR applications utilizing a diverse set of technologies. Key responsibilities included:\n\nDeveloping immersive AR/VR experiences using Three.js and Babylon.js, leveraging their capabilities to create high-quality 3D visualizations and interactions.\nIntegrating ChatGPT APIs to enhance the interactivity and intelligence of AR/VR applications, providing a more engaging user experience.\nUtilizing Node.js for server-side scripting, ensuring efficient and scalable backend processes.\nImplementing Azure Storage solutions to manage and store large volumes of data securely and efficiently.\nCollaborating with cross-functional teams to design and execute projects, ensuring all deliverables met client specifications and were completed on time.\nContinuously researching and incorporating the latest AR/VR trends and technologies to keep the applications cutting-edge and competitive.\nThis experience allowed me to deepen my technical expertise and contribute to innovative projects that push the boundaries of what's possible in AR/VR technology.",
+			"website": "https://www.linkedin.com/company/holonext/"
+		},
+		{
+			"company": "Enhencer",
+			"endDate": "2022-01-31",
+			"highlights": [],
+			"position": "Software Engineer Intern",
+			"startDate": "2021-08-31",
+			"website": "https://www.linkedin.com/company/enhencer/"
+		},
+		{
+			"company": "StudioNord",
+			"endDate": "2021-07-31",
+			"highlights": [],
+			"position": "Full Stack Engineer",
+			"startDate": "2021-06-30",
+			"summary": "In StudioNord we are developed native mobile applications using swift and objective-c also managed some pyhton script to imporve apps API's",
+			"website": "https://www.linkedin.com/company/studionord/"
+		}
+	],
+	"education": [
+		{
+			"institution": "Hacettepe Üniversitesi",
+			"area": "Bilgisayar Mühendisliği",
+			"studyType": "Lisans Derecesi",
+			"startDate": "2017-12-31",
+			"endDate": "2022-01-31",
+			"gpa": "2.93",
+			"courses": []
+		},
+		{
+			"institution": "Gediz Fen Lisesi",
+			"area": "",
+			"studyType": "High School Diploma",
+			"startDate": "2013-09-30",
+			"endDate": "2017-06-30",
+			"gpa": "93.5",
+			"courses": []
+		}
+	],
+	"awards": [],
+	"publications": [],
+	"skills": [
+		{
+			"name": "Mobil Uygulamalar",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Objective-C",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Swift",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Python",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "XCode",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Github",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Gitlub",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Google Tag Manager",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Google Analytics",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Google Maps API",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Express.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Mongoose Web Server",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "RabbitMQ",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Three.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "BabylonJs",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Azure DevOps Server",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Azure DevOps Services",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Azure",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "HTML5",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Cascading Style Sheets (CSS)",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Elastic Load Balancing",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Redux Thunk",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Node.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "JavaScript",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Bilgisayar Bilimleri",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Redux",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS Elastic Beanstalk",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS CloudFormation",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "MinION Object Storage Suite",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Redis",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "React.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Amazon Web Services (AWS)",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Bilgisayar Mühendisliği",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "MongoDB",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS Lambda",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Mühendislik",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "NestJS",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "İletişim",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS CodeBuild",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Microsoft Azure",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS CodePipeline",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Next.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Backend",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "JSON",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Back-End Web Development",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Amazon S3",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Tailwind CSS",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Elasticsearch",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Engineering",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Microservices",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "HTML",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "CSS Flexbox",
+			"level": "",
+			"keywords": []
+		}
+	],
+	"languages": [
+		{
+			"language": "tr",
+			"fluency": "Native Speaker"
+		}
+	],
+	"interests": [],
+	"references": []
+}

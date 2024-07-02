@@ -1,0 +1,85 @@
+---
+import ResumeContext from "../context-provider/resume-context";
+import ThemeContext from "../context-provider/theme-context";
+import PrintMenu from '../components/print-menu/print-menu';
+import { themes } from "../data/themes";
+import type { ThemeNames } from "../data/themes";
+import type { Resume } from "../data/data-interface";
+const { title, desc, resume } = Astro.props as {
+    title: string;
+    desc: string;
+    resume: Resume;
+};
+
+const selectedTheme = import.meta.env.PUBLIC_SELECTED_THEME as ThemeNames;
+---
+
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta
+            name="viewport"
+            content="width=device-width"
+        />
+        <meta
+            name="generator"
+            content={Astro.generator}
+        />
+        <meta
+            name="description"
+            content={desc}
+        />
+        <title>{title}</title>
+        <style is:global>
+            /* PAGE BREAK WHILE PRINTING */
+            @media print {
+                .page-break {
+                    page-break-inside: avoid;
+                }
+                /* HIDE PAGE WHILE PRINTING  */
+                .page-hidden {
+                    display: none;
+                }
+            }
+            /* FONTS */
+            @font-face {
+                font-family: "Inter";
+                src: url("../fonts/Inter.ttf") format("truetype");
+                font-display: swap;
+            }
+            @font-face {
+                font-family: "Monospace";
+                src: url("../fonts/SpaceMono-Regular.ttf") format("truetype");
+                font-display: swap;
+            }
+        </style>
+        <!-- PREFERS COLOR SCHEME / DARK MODE -->
+        <script>
+            // PREFERS DARK COLOR SCHEME
+            if (
+                window.matchMedia &&
+                window.matchMedia("(prefers-color-scheme: dark)").matches
+            ) {
+                // To allow users who prefer dark color scheme,
+                // uncomment the line below
+                // document.documentElement.classList.add("dark");
+            }
+            // TAILWIND DARK MODE
+            if (import.meta.env.PUBLIC_DARK_MODE === "true") {
+                // To switch to dark theme using Tailwind,
+                // uncomment the line below
+                // document.documentElement.classList.add("dark");
+            }
+        </script>
+    </head>
+    <ThemeContext.Provider value={themes}>
+        <ResumeContext.Provider value={resume}>
+            <body class={themes[selectedTheme].body + " py-14"}>
+                <PrintMenu client:idle />
+                <main class="container flex flex-col gap-10">
+                    <slot />
+                </main>
+            </body>
+        </ResumeContext.Provider>
+    </ThemeContext.Provider>
+</html>
