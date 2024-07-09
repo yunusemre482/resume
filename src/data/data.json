@@ -142,15 +142,86 @@
 		{
 			"title": "Best Technology Usage In Consumer Electronics",
 			"date": "2024-03-10",
-			"awarder": "Arçelik Global",
-			"summary": "As Part of Holonext Team, we won the Best Technology Usage In Consumer Electronics award for our innovative AR/VR  product Arçelik Gurmeşef Pro Cooking Simulation Game Project"
+			"awarder": "Arcelik Global",
+			"summary": "As Part of Holonext Team, we won the Best Technology Usage In Consumer Electronics award for our innovative AR/VR  product Arcelik Gurmeşef Pro Cooking Simulation Game Project"
 		}
 	],
 	"certificates": [],
 	"publications": [],
 	"skills": [
 		{
-			"name": "Mobil Uygulamalar",
+			"name": "Elastic Load Balancing",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS Lambda",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS Elastic Beanstalk",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS CloudFormation",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS CodeBuild",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "AWS CodePipeline",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Amazon S3",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "MinION Object Storage Suite",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Redis",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Node.js",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "MongoDB",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "PostgreSQL",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "NestJS",
+			"level": "",
+			"keywords": []
+		},
+
+		{
+			"name": "Microservices",
+			"level": "",
+			"keywords": []
+		},
+		{
+			"name": "Elasticsearch",
 			"level": "",
 			"keywords": []
 		},
@@ -170,17 +241,7 @@
 			"keywords": []
 		},
 		{
-			"name": "XCode",
-			"level": "",
-			"keywords": []
-		},
-		{
 			"name": "Github",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Gitlub",
 			"level": "",
 			"keywords": []
 		},
@@ -205,11 +266,6 @@
 			"keywords": []
 		},
 		{
-			"name": "Mongoose Web Server",
-			"level": "",
-			"keywords": []
-		},
-		{
 			"name": "RabbitMQ",
 			"level": "",
 			"keywords": []
@@ -225,21 +281,6 @@
 			"keywords": []
 		},
 		{
-			"name": "Azure DevOps Server",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Azure DevOps Services",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Azure",
-			"level": "",
-			"keywords": []
-		},
-		{
 			"name": "HTML5",
 			"level": "",
 			"keywords": []
@@ -250,52 +291,7 @@
 			"keywords": []
 		},
 		{
-			"name": "Elastic Load Balancing",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Redux Thunk",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Node.js",
-			"level": "",
-			"keywords": []
-		},
-		{
 			"name": "JavaScript",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Bilgisayar Bilimleri",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Redux",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "AWS Elastic Beanstalk",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "AWS CloudFormation",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "MinION Object Storage Suite",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Redis",
 			"level": "",
 			"keywords": []
 		},
@@ -304,78 +300,9 @@
 			"level": "",
 			"keywords": []
 		},
-		{
-			"name": "Amazon Web Services (AWS)",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Bilgisayar Mühendisliği",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "MongoDB",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "AWS Lambda",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Mühendislik",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "NestJS",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "İletişim",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "AWS CodeBuild",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Microsoft Azure",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "AWS CodePipeline",
-			"level": "",
-			"keywords": []
-		},
+		
 		{
 			"name": "Next.js",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Backend",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "JSON",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Back-End Web Development",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Amazon S3",
 			"level": "",
 			"keywords": []
 		},
@@ -385,27 +312,7 @@
 			"keywords": []
 		},
 		{
-			"name": "Elasticsearch",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Engineering",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "Microservices",
-			"level": "",
-			"keywords": []
-		},
-		{
 			"name": "HTML",
-			"level": "",
-			"keywords": []
-		},
-		{
-			"name": "CSS Flexbox",
 			"level": "",
 			"keywords": []
 		}
